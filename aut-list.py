@@ -1,7 +1,7 @@
 import subprocess
 
 # Path to the file containing the bucket names
-bucket_file = "bucketlist.txt"
+bucket_file = "bucket.list.txt"
 
 # Read the bucket names from the file
 with open(bucket_file, "r") as file:
