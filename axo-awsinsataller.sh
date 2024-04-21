@@ -42,4 +42,4 @@ pip3 install -r requirements.txt
 wget https://raw.githubusercontent.com/axosecurity/axo-aws/main/megacloud.txt 
 wget https://raw.githubusercontent.com/axosecurity/axo-aws/main/kidcloud.txt
 
-python cloud_enum --help 
+python cloud_enum.py --help 
