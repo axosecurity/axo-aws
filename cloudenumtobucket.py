@@ -1,7 +1,7 @@
-mport re
+import re
 import argparse
 
-print "Cloudenum to s3bucket file extractor AXO-AWS"
+print("Cloudenum to s3bucket file extractor AXO-AWS")
 
 
 def extract_bucket_names(file_location, output_file):
