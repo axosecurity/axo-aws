@@ -43,3 +43,4 @@ wget https://raw.githubusercontent.com/axosecurity/axo-aws/main/megacloud.txt
 wget https://raw.githubusercontent.com/axosecurity/axo-aws/main/kidcloud.txt
 
 python cloud_enum.py --help 
+go install -v github.com/sa7mon/s3scanner@latest
